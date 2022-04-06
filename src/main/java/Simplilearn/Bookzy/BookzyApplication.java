@@ -16,7 +16,7 @@ public class BookzyApplication {
 
 	@RequestMapping("/")
 	public String index() {
-		return " WELCOME TO SIMPLILEARN BOOKZY ONLINE BOOK SHOOP. TESTING POLL SCM";
+		return " WELCOME TO SIMPLILEARN BOOKZY ONLINE BOOK SHOOP. DEPLOYING TO REMOTE TOMCAT SERVER ON EC2";
 
 
 	}
